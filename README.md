@@ -2,7 +2,6 @@
 <h3 align="center">A passionate back-end developer from Turkey(Türkiye)</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omeralpergunes" alt="omeralpergunes" /></a> </p>
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
 
