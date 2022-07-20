@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Alper</h1>
 <h3 align="center">A passionate back-end developer from Turkey(Türkiye)</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
