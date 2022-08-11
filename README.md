@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# & Java**
 
 - 📫 How to reach me **omeralpergunes@gmail.com**
 
