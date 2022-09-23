@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Alper</h1>
-<h3 align="center">A passionate back-end developer from Turkey(Türkiye)</h3>
+<h3 align="center">Selamlar. Ben Ömer Alper. Yönetim Bilişim Sistemleri 3. Sınıf öğrencisiyim.(Türkiye)</h3>
 
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
