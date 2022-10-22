@@ -2,8 +2,6 @@
 <h3 align="center">Hii. I'm Ömer Alper. I'm a student Management Information Systems 3th class. </h3>
 
 
-- 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
-
 - 🌱 I’m currently learning **C# & Java**
 
 - 📫 How to reach me **omeralpergunes@gmail.com**
