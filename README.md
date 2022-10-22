@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Alper</h1>
-<h3 align="center">Selamlar. Ben Ömer Alper. Yönetim Bilişim Sistemleri bölümü 3. Sınıf öğrencisiyim. </h3>
+<h3 align="center">Hii. I'm Ömer Alper. I'm a student Management Information Systems 3th class. </h3>
 
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/omeralpergunes/ReCapProject)
