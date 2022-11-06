@@ -11,13 +11,6 @@
 <a href="https://linkedin.com/in/omer-alper-gunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omeralpergunes" height="30" width="40" /></a>
 <a href="https://instagram.com/omeralpergunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omeralpergunes" height="30" width="40" /></a>
 </p>
-
-
-
-### Ömer Alper Güneş  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Ömer, a  backend developer 👨‍💻 </div>  
