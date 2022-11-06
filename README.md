@@ -11,23 +11,7 @@
 <a href="https://linkedin.com/in/omer-alper-gunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omeralpergunes" height="30" width="40" /></a>
 <a href="https://instagram.com/omeralpergunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omeralpergunes" height="30" width="40" /></a>
 </p>
-  
-
-### <div align="center">I'm Ömer, a  backend developer 👨‍💻 </div>  
-  
-
-- 🌱 I’m currently learning Java and C#  
-  
-
-- 📫 How to reach me (omeralpergunes@gmail.com)  
-  
-
-  
-  
-
-<br/>  
-
-
+ 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
