@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Alper</h1>
-<h3 align="center">Hii. I'm Ömer Alper. I'm a student Management Information Systems 3th class. </h3>
+<h3 align="center">Hii. I'm Ömer Alper. I'm a student Management Information Systems 4th class. </h3>
 
 
 - 🌱 I’m currently learning **Selenium & Java Spring**
