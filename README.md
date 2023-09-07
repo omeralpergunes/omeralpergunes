@@ -2,7 +2,7 @@
 <h3 align="center">Hii. I'm Ömer Alper. I'm a student Management Information Systems 3th class. </h3>
 
 
-- 🌱 I’m currently learning **C# & Java**
+- 🌱 I’m currently learning **Selenium# & Java Spring**
 
 - 📫 How to reach me **omeralpergunes@gmail.com**
 
