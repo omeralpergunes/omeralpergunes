@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ömer Alper</h1>
 <h3 align="center">Management Information Systems</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeralpergunes&label=Profile%20views&color=0e75b6&style=flat" alt="omeralpergunes" /> </p>
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **java, selenium, cucumber**
